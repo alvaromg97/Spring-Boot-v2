@@ -3,5 +3,5 @@ Segundo proyecto usando <b>Spring Boot</b> siguiendo los pasos del tutorial de <
 
 
 ### Diagrama
-Un pequeño diagrama de la composición del proyecto.
+Un pequeño diagrama de la arquitectura del proyecto.
 ![Diagram](Diagram/Diagram.jpg)
